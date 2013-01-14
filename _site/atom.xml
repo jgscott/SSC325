@@ -4,7 +4,7 @@
  <title>James G. Scott</title>
  <link href="http://jgscott.github.com/SSC325/atom.xml" rel="self"/>
  <link href="http://jgscott.github.com/SSC325/"/>
- <updated>2013-01-14T15:57:47-06:00</updated>
+ <updated>2013-01-14T16:04:35-06:00</updated>
  <id>http://jgscott.github.com/SSC325/</id>
  <author>
    <name>James G. Scott</name>
@@ -37,11 +37,31 @@
 &lt;br /&gt;
 &lt;h2 id='read_watch_practice'&gt;Read, watch, practice&lt;/h2&gt;
 
+&lt;p&gt;Two steps are the most important.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;Make sure to install &lt;a href='http://http://www.r-project.org'&gt;R&lt;/a&gt; and &lt;a href='http://www.rstudio.org'&gt;RStudio&lt;/a&gt; on your own computer.&lt;/p&gt;
+&lt;/li&gt;
 
+&lt;li&gt;
 &lt;p&gt;Read the introduction and Chapter 1 of the online course packet, available from the &lt;a href='http://jgscott.github.com/SSC325/resources.html'&gt;resources&lt;/a&gt; page.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;If you&amp;#8217;re feeling a little uncomfortable with the idea of R, watch and follow along with these videos from the &lt;a href='http://dist.stat.tamu.edu/pub/rvideos/'&gt;R Tutorial&lt;/a&gt; website: 1) Libraries and Packages 2) Reading in Files 3) Inputting Data 4) Getting Help in R 5) Saving Work 6) Basic Statistics&lt;/p&gt;
+&lt;p&gt;If you&amp;#8217;re feeling a little uncomfortable with the idea of R, watch and follow along with these videos from the &lt;a href='http://dist.stat.tamu.edu/pub/rvideos/'&gt;R Tutorial&lt;/a&gt; website:&lt;/p&gt;
+
+&lt;p&gt;(1) Libraries and Packages&lt;/p&gt;
+
+&lt;p&gt;(2) Reading in Files&lt;/p&gt;
+
+&lt;p&gt;(3) Inputting Data&lt;/p&gt;
+
+&lt;p&gt;(4) Getting Help in R&lt;/p&gt;
+
+&lt;p&gt;(5) Saving Work&lt;/p&gt;
+
+&lt;p&gt;(6) Basic Statistics&lt;/p&gt;
 
 &lt;p&gt;Some good supplemental readings include the following:&lt;/p&gt;
 
