@@ -1,1 +1,38 @@
-My GitHub Page
+---
+layout: default
+title: Home
+---
+
+<div id="home">
+  
+  <h1>SSC 325H: Honors Statistics</h1>  
+  <p>
+  Instructor: James Scott <br>
+  Office: CBA 6.478 <br>
+  Office hours: Mondays 3-6 PM <br>
+  email: firstname dot lastname at mccombs dot utexas dot edu
+  </p>
+
+    <p>
+  Teaching Assistant: Alex Reinhart <br>
+  Office and office hours TBA <br>
+  email: firstname dot lastname at utexas dot edu
+</p>
+  
+  <h1>About</h1>  
+  <p>
+  [Syllabus.](http://jgscott.github.com/SSC325/files/syllabus-2013-SSC325H.pdf)
+  SSC 325H is an introductory statistics course for honors undergraduate in natural sciences at UT.
+ </p>
+    
+  
+<div id="posts">
+  <h1>Week by week</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+</div>
+

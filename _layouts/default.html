@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} SSC 325H </title>
+  <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+  <div id="main">
+    <header>
+      <h1> SSC 325H </h1>
+    <header>
+    <nav role="navigation">
+      <ul>
+        <li><a href="/">home</a></li>
+        <li><a href="/resources.html/">resources</a></li>
+      </ul>
+    </nav>
+    {{ content }}
+    <footer>
+      <p>@copy; James G. Scott, 2012 </p>
+    </footer>
+  </div>
+</body>
+</html>

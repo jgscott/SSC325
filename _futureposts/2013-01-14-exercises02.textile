@@ -1,0 +1,30 @@
+---
+layout: post
+title: Week 1 (January 14-20, 2013)
+---
+
+h1. {{ page.title }}
+
+p(meta). 14 Jan 2013
+
+### In class
+
+This week, we talk briefly about the perils of causal reasoning using data.  Then we talk about some principles for good and bad statistical graphs, and introduce some simple methods for exploring multivariate data.
+
+Data and R scripts for class
+* [titanic.R](http://jgscott.github.com/SSC325/r/titanic.r)
+* [citytemps.R](http://jgscott.github.com/SSC325/r/citytemps.r), [casandie.txt](http://jgscott.github.com/SSC325/data/casandie.txt), and [sdrapcty.txt](http://jgscott.github.com/SSC325/data/sdrapcty.txt)
+* [ut2000.csv](http://jgscott.github.com/SSC325/data/ut2000.csv) and [ut2000.R](http://jgscott.github.com/SSC325/r/ut2000.r)
+* [mammalsleep.R](http://jgscott.github.com/SSC325/r/mammalsleep.r)
+
+
+### Read and watch
+* 
+
+
+
+### Exercises
+Due Wednesday, January 23, 2013.  In this first set of exercises, you will read a news article (and the academic paper it reports on) concerning the effect of maternal methampetamine use on child health.
+* [exercises01.pdf](http://jgscott.github.com/SSC325/exercises/exercises01.pdf)
+* [ethanol.csv](http://jgscott.github.com/SSC325/data/ethanol.csv)
+* [peakdemand.csv](http://jgscott.github.com/SSC325/data/peakdemand.csv)
