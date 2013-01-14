@@ -4,7 +4,7 @@
  <title>James G. Scott</title>
  <link href="http://jgscott.github.com/SSC325/atom.xml" rel="self"/>
  <link href="http://jgscott.github.com/SSC325/"/>
- <updated>2013-01-13T23:19:50-06:00</updated>
+ <updated>2013-01-13T23:37:34-06:00</updated>
  <id>http://jgscott.github.com/SSC325/</id>
  <author>
    <name>James G. Scott</name>
@@ -17,7 +17,9 @@
    <link href="http://jgscott.github.com/SSC325//2013/01/14/week01.html"/>
    <updated>2013-01-14T00:00:00-06:00</updated>
    <id>http://jgscott.github.com/2013/01/14/week01</id>
-   <content type="html">&lt;h2&gt;In class&lt;/h2&gt;
+   <content type="html">&lt;p&gt;Week 1 (January 14-20, 2013)&lt;/p&gt;
+
+&lt;h2&gt;In class&lt;/h2&gt;
 
 &lt;p&gt;This week, we talk briefly about the perils of causal reasoning using data.  Then we talk about some principles for good and bad statistical graphs, and introduce some simple methods for exploring multivariate data.&lt;/p&gt;
 
