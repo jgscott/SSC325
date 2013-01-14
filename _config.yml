@@ -1,3 +1,2 @@
 pygments: true
-baseurl: /SSC325/
-url: http://jgscott.github.com/SSC325/
+BASE_PATH : /SSC325/
