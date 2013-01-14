@@ -1,2 +1,3 @@
 markdown: rdiscount
 pygments: true
+baseurl: http://jgscott.github.com/SSC325/

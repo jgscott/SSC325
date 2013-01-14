@@ -4,7 +4,7 @@
  <title>James G. Scott</title>
  <link href="http://jgscott.github.com/SSC325/atom.xml" rel="self"/>
  <link href="http://jgscott.github.com/SSC325/"/>
- <updated>2013-01-13T23:38:52-06:00</updated>
+ <updated>2013-01-14T06:36:49-06:00</updated>
  <id>http://jgscott.github.com/SSC325/</id>
  <author>
    <name>James G. Scott</name>
@@ -23,7 +23,7 @@
 
 &lt;p&gt;This week, we talk briefly about the perils of causal reasoning using data.  Then we talk about some principles for good and bad statistical graphs, and introduce some simple methods for exploring multivariate data.&lt;/p&gt;
 
-&lt;p&gt;Data and R scripts for class
+&lt;p&gt;Data and R scripts for class:
 * &lt;a href=&quot;http://jgscott.github.com/SSC325/r/titanic.R&quot;&gt;titanic.R&lt;/a&gt;
 * &lt;a href=&quot;http://jgscott.github.com/SSC325/r/citytemps.R&quot;&gt;citytemps.R&lt;/a&gt;, &lt;a href=&quot;http://jgscott.github.com/SSC325/data/casandie.txt&quot;&gt;casandie.txt&lt;/a&gt;, and &lt;a href=&quot;http://jgscott.github.com/SSC325/data/sdrapcty.txt&quot;&gt;sdrapcty.txt&lt;/a&gt;
 * &lt;a href=&quot;http://jgscott.github.com/SSC325/data/ut2000.csv&quot;&gt;ut2000.csv&lt;/a&gt; and &lt;a href=&quot;http://jgscott.github.com/SSC325/r/ut2000.R&quot;&gt;ut2000.R&lt;/a&gt;
