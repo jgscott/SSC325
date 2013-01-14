@@ -4,7 +4,7 @@
  <title>James G. Scott</title>
  <link href="http://jgscott.github.com/SSC325/atom.xml" rel="self"/>
  <link href="http://jgscott.github.com/SSC325/"/>
- <updated>2013-01-14T06:36:49-06:00</updated>
+ <updated>2013-01-14T06:38:43-06:00</updated>
  <id>http://jgscott.github.com/SSC325/</id>
  <author>
    <name>James G. Scott</name>
@@ -19,38 +19,41 @@
    <id>http://jgscott.github.com/2013/01/14/week01</id>
    <content type="html">&lt;p&gt;Week 1 (January 14-20, 2013)&lt;/p&gt;
 
-&lt;h2&gt;In class&lt;/h2&gt;
+&lt;h2 id='in_class'&gt;In class&lt;/h2&gt;
 
-&lt;p&gt;This week, we talk briefly about the perils of causal reasoning using data.  Then we talk about some principles for good and bad statistical graphs, and introduce some simple methods for exploring multivariate data.&lt;/p&gt;
+&lt;p&gt;This week, we talk briefly about the perils of causal reasoning using data. Then we talk about some principles for good and bad statistical graphs, and introduce some simple methods for exploring multivariate data.&lt;/p&gt;
 
-&lt;p&gt;Data and R scripts for class:
-* &lt;a href=&quot;http://jgscott.github.com/SSC325/r/titanic.R&quot;&gt;titanic.R&lt;/a&gt;
-* &lt;a href=&quot;http://jgscott.github.com/SSC325/r/citytemps.R&quot;&gt;citytemps.R&lt;/a&gt;, &lt;a href=&quot;http://jgscott.github.com/SSC325/data/casandie.txt&quot;&gt;casandie.txt&lt;/a&gt;, and &lt;a href=&quot;http://jgscott.github.com/SSC325/data/sdrapcty.txt&quot;&gt;sdrapcty.txt&lt;/a&gt;
-* &lt;a href=&quot;http://jgscott.github.com/SSC325/data/ut2000.csv&quot;&gt;ut2000.csv&lt;/a&gt; and &lt;a href=&quot;http://jgscott.github.com/SSC325/r/ut2000.R&quot;&gt;ut2000.R&lt;/a&gt;
-* &lt;a href=&quot;http://jgscott.github.com/SSC325/r/mammalsleep.r&quot;&gt;mammalsleep.R&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Data and R scripts for class:&lt;/p&gt;
 
-&lt;h2&gt;Read, watch, practice&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://jgscott.github.com/SSC325/r/titanic.R'&gt;titanic.R&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Make sure to install &lt;a href=&quot;http://http://www.r-project.org&quot;&gt;R&lt;/a&gt; and &lt;a href=&quot;http://www.rstudio.org&quot;&gt;RStudio&lt;/a&gt; on your own computer.&lt;/p&gt;
+&lt;li&gt;&lt;a href='http://jgscott.github.com/SSC325/r/citytemps.R'&gt;citytemps.R&lt;/a&gt;, &lt;a href='http://jgscott.github.com/SSC325/data/casandie.txt'&gt;casandie.txt&lt;/a&gt;, and &lt;a href='http://jgscott.github.com/SSC325/data/sdrapcty.txt'&gt;sdrapcty.txt&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;Read the introduction and Chapter 1 of the online course packet, available from the &lt;a href=&quot;http://jgscott.github.com/SSC325/resources.html&quot;&gt;resources&lt;/a&gt; page.&lt;/p&gt;
+&lt;li&gt;&lt;a href='http://jgscott.github.com/SSC325/data/ut2000.csv'&gt;ut2000.csv&lt;/a&gt; and &lt;a href='http://jgscott.github.com/SSC325/r/ut2000.R'&gt;ut2000.R&lt;/a&gt;&lt;/li&gt;
 
-&lt;p&gt;If you're feeling a little uncomfortable with the idea of R, watch and follow along with these videos from the &lt;a href=&quot;http://dist.stat.tamu.edu/pub/rvideos/&quot;&gt;R Tutorial&lt;/a&gt; website:
-1) Libraries and Packages
-2) Reading in Files
-3) Inputting Data
-4) Getting Help in R
-5) Saving Work
-6) Basic Statistics&lt;/p&gt;
+&lt;li&gt;&lt;a href='http://jgscott.github.com/SSC325/r/mammalsleep.r'&gt;mammalsleep.R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Some good supplemental readings include the following:
-* &lt;a href=&quot;http://www.mosaic-web.org/go/StatisticalModeling/Chapters/Chapter-01.pdf&quot;&gt;Chapter 1&lt;/a&gt; of Kaplan
-* pages 1-18 of Tufte&lt;/p&gt;
+&lt;h2 id='read_watch_practice'&gt;Read, watch, practice&lt;/h2&gt;
 
-&lt;h2&gt;Exercises&lt;/h2&gt;
+&lt;p&gt;Make sure to install &lt;a href='http://http://www.r-project.org'&gt;R&lt;/a&gt; and &lt;a href='http://www.rstudio.org'&gt;RStudio&lt;/a&gt; on your own computer.&lt;/p&gt;
 
-&lt;p&gt;Due Wednesday, January 23, 2013.  In this first set of exercises, you will read a news article (and the academic paper it reports on) concerning the effect of maternal methampetamine use on child health.  You will also practice fitting simple group-wise models, and prove a simple result about the optimality of group-wise means under the least-squares criterion.  All the necessary files are in &lt;a href=&quot;http://jgscott.github.com/SSC325/exercises/01/exercises01.zip&quot;&gt;this ZIP file.&lt;/a&gt;&lt;/p&gt;
-</content>
+&lt;p&gt;Read the introduction and Chapter 1 of the online course packet, available from the &lt;a href='http://jgscott.github.com/SSC325/resources.html'&gt;resources&lt;/a&gt; page.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#8217;re feeling a little uncomfortable with the idea of R, watch and follow along with these videos from the &lt;a href='http://dist.stat.tamu.edu/pub/rvideos/'&gt;R Tutorial&lt;/a&gt; website: 1) Libraries and Packages 2) Reading in Files 3) Inputting Data 4) Getting Help in R 5) Saving Work 6) Basic Statistics&lt;/p&gt;
+
+&lt;p&gt;Some good supplemental readings include the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='http://www.mosaic-web.org/go/StatisticalModeling/Chapters/Chapter-01.pdf'&gt;Chapter 1&lt;/a&gt; of Kaplan&lt;/li&gt;
+
+&lt;li&gt;pages 1-18 of Tufte&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id='exercises'&gt;Exercises&lt;/h2&gt;
+
+&lt;p&gt;Due Wednesday, January 23, 2013. In this first set of exercises, you will read a news article (and the academic paper it reports on) concerning the effect of maternal methampetamine use on child health. You will also practice fitting simple group-wise models, and prove a simple result about the optimality of group-wise means under the least-squares criterion. All the necessary files are in &lt;a href='http://jgscott.github.com/SSC325/exercises/01/exercises01.zip'&gt;this ZIP file.&lt;/a&gt;&lt;/p&gt;</content>
  </entry>
  
  
