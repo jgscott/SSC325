@@ -53,10 +53,11 @@ lines(bacteria$generation, exp(predictedlogcount))
 
 
 # Load the data set on body vs brain weights
-bodybrain = read.csv('bodybrain.csv', header=TRUE)
+library(faraway)
+data(mammalsleep)
 
-plot(braingrams~bodykilos, data=bodybrain)
-plot(log(braingrams)~bodykilos, data=bodybrain)
+plot(brain~body, data=mammalsleep)
+plot(log(brain)~body, data=mammalsleep)
 
 # What else should we try?
 
