@@ -1,5 +1,5 @@
 library(mosaic)
-
+ 
 truemean = 0.25
 nullmean = 0
 N = 10

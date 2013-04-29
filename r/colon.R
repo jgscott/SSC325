@@ -9,7 +9,7 @@ summary(colon)
 recur = subset(colon, etype==1)
 mort = subset(colon, etype==2)
 
-head(recur)
+head(recur) 
 
 # Important detail: create a "survival status" object
 # for subsequent use by other functions.
